@@ -1,6 +1,4 @@
 # mediapipe
 Mediapipe + OpenCV + Python  
 # 姿勢偵測  
-<video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src="https://drive.google.com/file/d/1PdAmgKSASEcrZZ2rITVlaJoFtXxywHDb/view?usp=sharing" type="video/mp4">
-</videos>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KbTQF3xkuf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
